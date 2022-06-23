@@ -9,3 +9,5 @@ sample_todo = ToDos(
 )
 db.session.add(sample_todo)
 db.session.commit()
+
+
